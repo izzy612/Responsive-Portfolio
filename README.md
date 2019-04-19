@@ -1,6 +1,6 @@
 # Responsive-Portfolio
 
-A portfolio template that is responsive to multiple size displays usuing media queries.
+A portfolio template that is responsive to multiple size displays using media queries.
 
 # Objectives
 Create a portfolio that is responsive to different screen sizes.
